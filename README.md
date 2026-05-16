@@ -1,3 +1,6 @@
+# NAME: S.TANUJA
+# REG NO:212224060277
+
 # Ex-06--DESIGN-AND-ANALYSIS-OF-MICROSTRIP-ANTENNA-USING-CST-MICROWAVE-STUDIO-SCHEMATIC
 
 ## Aim:
@@ -12,3 +15,4 @@ RF system architecture can be implemented using RF System models available in th
 <img width="619" height="475" alt="image" src="https://github.com/user-attachments/assets/58b42f0d-3a86-4062-97a9-d6b30f703108" />
 
 ## Conclusion:
+Thus,the quarter-wave transformer was successfully designed and simulated using CST Studio Suite 2019 to match a 50 Ω microstrip line with a 123 Ω load. The simulation results verified efficient impedance matching, showing minimal reflection and improved power transfer at the designed frequency.
